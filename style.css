@@ -78,7 +78,13 @@ strong {
 h2 {
   margin: 0;
   font-size: 160%;
+  font-weight: normal;
   color: #EE6055;
+}
+
+a.call-to-action {
+  color: inherit;
+  text-decoration: none;
 }
 
 #contact {
