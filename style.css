@@ -56,6 +56,7 @@ h1 #subtitle {
 #about-button {
   background: #FFF7F7;
   color: #3E3449;
+  border-radius: 6px;
 }
 
 h3 {
@@ -69,6 +70,10 @@ h3 {
 
 img.feature-icon {
   height: 70px;
+}
+
+p.feature {
+  text-align: justify;
 }
 
 strong {
