@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Comfortaa|Open+Sans|Passion+One');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Open+Sans|Passion+One|Londrina+Solid');
 
 html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
   font-family: 'Open Sans', sans-serif;
@@ -35,7 +35,7 @@ h1 {
 }
 
 h1 #title {
-  font-family: 'Passion One', cursive;
+  font-family: 'Londrina Solid', cursive;
   letter-spacing: 2px;
   font-weight: normal;
   display: block;
